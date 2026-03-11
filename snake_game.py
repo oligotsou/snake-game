@@ -3,7 +3,7 @@ import pygame
 import random
 import sys
 
-CELL        = 20
+CELL        = 40
 COLS, ROWS  = 30, 30
 WIDTH       = COLS * CELL
 HEIGHT      = ROWS * CELL + 60
